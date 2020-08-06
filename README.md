@@ -1,1 +1,2 @@
-# Project20-bullet-and-Wall-
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
